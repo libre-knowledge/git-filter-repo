@@ -13,3 +13,7 @@
 	ignore = dirty
 	fetchRecurseSubmodules = false
 	shallow = true
+[submodule "Unofficial Snap Packaging for git filter-repo"]
+	path = Unofficial Snap Packaging for git filter-repo
+	url = https://github.com/brlin-tw/git-filter-repo-snap.git
+	ignore = dirty

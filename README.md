@@ -9,6 +9,13 @@
 
 [newren/git-filter-repo: Quickly rewrite git repository history (filter-branch replacement)](https://github.com/newren/git-filter-repo)
 
+## 解決方案
+
+以下列舉本主題相關的解決方案：
+
+* [Unofficial Snap Packaging for git filter-repo](https://github.com/brlin-tw/git-filter-repo-snap)  
+  於支援 Snap 的 Linux 作業系統上提供即可用的 `git filter-repo` 軟體
+
 ## 參考資料
 
 以下列舉撰寫本主題內容時所參考的第三方資源：
